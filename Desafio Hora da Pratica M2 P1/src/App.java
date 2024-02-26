@@ -11,5 +11,7 @@ public class App {
         listaDePessoas.add(Miguel);
 
         System.out.println(listaDePessoas.size());
+        System.out.println(listaDePessoas.get(0));
+        
     }
 }
