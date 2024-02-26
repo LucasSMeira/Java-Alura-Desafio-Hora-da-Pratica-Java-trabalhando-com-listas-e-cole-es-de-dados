@@ -9,5 +9,7 @@ public class App {
         listaDePessoas.add(fax);
         listaDePessoas.add(Rheider);
         listaDePessoas.add(Miguel);
+
+        System.out.println(listaDePessoas.size());
     }
 }
