@@ -10,8 +10,12 @@ public class App {
         listaDePessoas.add(Rheider);
         listaDePessoas.add(Miguel);
 
-        System.out.println(listaDePessoas.size());
+        System.out.println("*******");
+        System.out.println("Tamanho da Lista de Pessoas: " + listaDePessoas.size());
+        System.out.println("*******");
         System.out.println(listaDePessoas.get(0));
+        System.out.println("*******");
+        System.out.println(listaDePessoas);
         
     }
 }
